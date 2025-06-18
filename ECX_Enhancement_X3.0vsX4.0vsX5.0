@@ -25,7 +25,7 @@ Windows Server 2019 is supported.
 
 Enhancement:
 Management GUI has been upgraded to Cluster WebUI.
-竊谷ava has not been necessary to be installed.
+  Java has not been necessary to be installed.
 
 Application Suppport:
 SQL Server monitor resource has supported SQL Server 2017.
