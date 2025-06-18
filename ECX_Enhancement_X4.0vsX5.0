@@ -1,0 +1,36 @@
+X5.x
+
+OS Support:
+Windows Server 2022 is now supported.
+Added support for Windows Server 2025.
+
+Enhancement:
+Added Integrated Cluster WebUI.
+
+Application Support:
+Added support for SQL Server 2022 for SQL Server monitor resources.
+Added support for PostgreSQL 15.1 for PostgreSQL monitor resources.
+Added support for PostgreSQL 16.3 for PostgreSQL monitor resources.
+Added support for PostgreSQL 17.2 for PostgreSQL monitor resources.
+
+Vulnerability response:
+
+Fixed the vulnerabilities of CVE-2021-20700 to 20707, CVE-2022-34822 to 34823, CVE-2023-39544 to 39548.
+
+
+X4.x
+
+OS Support
+Windows Server 2019 is supported.
+
+Enhancement:
+Management GUI has been upgraded to Cluster WebUI.
+竊谷ava has not been necessary to be installed.
+
+Application Suppport:
+SQL Server monitor resource has supported SQL Server 2017.
+SQL Server monitor resource has supported SQL Server 2019.
+PostgreSQL monitor resource supports PostgreSQL 11.
+PostgreSQL monitor resource supports PostgreSQL 12.
+
+Fixed the vulnerabilities of CVE-2021-20700 to 20707, CVE-2022-34822 to 34823.
